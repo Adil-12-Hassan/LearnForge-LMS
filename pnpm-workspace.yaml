@@ -1,0 +1,7 @@
+packages:
+  - "client"
+  - "server"
+allowBuilds:
+  '@prisma/engines@7.10.0': true
+  esbuild: set this to true or false
+  prisma@7.10.0: true
